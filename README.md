@@ -6,7 +6,7 @@
 <table>
     <tr>
         <td>MongoDB</td>
-        <td style="text-align:center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy1E249a95askTT01RMD4JQpG2MiG6MKKZ_Ey3746E&s"></td>
+        <td style="text-align:center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy1E249a95askTT01RMD4JQpG2MiG6MKKZ_Ey3746E&s" width="100px"></td>
     </tr>
     <tr>
         <td>Express</td>
@@ -23,5 +23,3 @@
 </table>
 
 # Stock Inventory System
-
-suck mah dic
