@@ -30,10 +30,10 @@ An inventory system is a process that tracks stock, supplies and sales through a
 Inventory systems provide detailed records of new and returned products as they're entering or leaving the warehouse to help companies organize and account for their stock. These systems can also track data such as the number of units, cost per unit, serial number, lot numbers, purchase dates and production dates.
 
 # Sub-systems:
-* Payment for stock
-* Provide stock or shipment
-* Quality control of stock
-* Distribute or sell stock
+>- Payment for stock
+>- Provide stock or shipment
+>- Quality control of stock
+>- Distribute or sell stock
 
 [Note] - Refer to the ER Diagram for visualization of the sub-systems
 
